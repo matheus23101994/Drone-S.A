@@ -1,5 +1,5 @@
-# Controle-Digital
-Implementação de um controlador PID
+# Sistema autônomos
+Projeto de pesquisa e desenvolvimento de um drone
 
 Projeto de pesquisa a ser apresentado e submetido à avaliação para elaboração de Trabalho acadêmico do Curso de Engenharia de Computação e Engenharia de Controle e Automação do Centro de Ciências Tecnológicas da Universidade de Fortaleza. 
 
